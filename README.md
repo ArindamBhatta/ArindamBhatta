@@ -1,39 +1,78 @@
-<h1 align="center">Hi 👋, I'm Arindam Bhattacharyya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Wanderly**  
 
-- 🌱 I’m currently learning **Flutter**  
+<h1 align="center">👋 Hi there</h1>
+<p align="center">I am Arindam Bhattacharyya, a passionate software developer and tech enthusiast. I currently work as an intern at Bengal Software Pvt Limited.</p>
 
-- 📫 How to reach me **arindambhattacharyya.ab@gmail.com**  
+---
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1S9mqBv3h5dKW1xRM34-K3KgkBZ_-CxFFYCbfqKKGzhs/edit?tab=t.fcvjkqcsdz57)  
+### 🚀 Expertise
+<p> Passionate about crafting interactive user experiences, I specialize in frontend development, combining modern frameworks with best-practice design patterns. With almost 1 year dedicated to honing my skills in front-end technologies</p>
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on Mobile development **Flutter**
+- 📫 Reach me at **arindambhattacharyya.ab@gmail.com**
+- 📄 [View My Resume](https://docs.google.com/document/d/1S9mqBv3h5dKW1xRM34-K3KgkBZ_-CxFFYCbfqKKGzhs/edit?tab=t.fcvjkqcsdz57)
+
+---
+
+### 🌍 Connect with Me
 <p align="left">
+  <a href="https://www.linkedin.com/in/arindambhattacharyya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  
-  </a>  
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>  
-  </a>  
+---
 
-  <br> <!-- Added gap here -->
+### 🛠 Tech Stack
+<p align="left">
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  
-  </a>  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  
-  </a>  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
-  </a>  
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  
+<a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  
+<a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  
+<a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  
+<a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  
+<a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  
+<a href="https://redux.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
+  
+<a href="https://bloclibrary.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="Bloc" width="80" height="40"/>
+  </a>
+  
+<a href="https://ant.design/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Ant_Design.svg" alt="Ant Design" width="40" height="40"/>
+  </a>
+  
+<a href="https://pub.dev/packages/mocktail" target="_blank">
+    <img src="https://raw.githubusercontent.com/dart-lang/mocktail/main/mocktail_logo.png" alt="Mocktail" width="80" height="40"/>
+  </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arindambhattacharyya&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arindambhattacharyya&theme=radical" alt="GitHub Streak" width="400"/>
+</p>
+
+---
