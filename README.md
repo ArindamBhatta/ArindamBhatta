@@ -1,7 +1,8 @@
 
 
-<h1 align="center">👋 Hi there</h1>
-<p align="center">I am Arindam Bhattacharyya, a passionate software developer and tech enthusiast. I currently work as an intern at Bengal Software Pvt Limited.</p>
+<h1 align="left">Hi 👋, I'm Arindam Bhattacharyya</h1> 
+
+<p> A passionate software developer and tech enthusiast with experience in Flutter, Flutter Bloc Library, Firebase, and Flutter Testing Library (Mocktail). Skilled in React with Ant Design and Tailwind CSS, as well as state management using Redux.</p> 
 
 ---
 
@@ -50,19 +51,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   
-<a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  
-<a href="https://bloclibrary.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="Bloc" width="80" height="40"/>
-  </a>
-  
-<a href="https://ant.design/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Ant_Design.svg" alt="Ant Design" width="40" height="40"/>
-  </a>
-  
-<a href="https://pub.dev/packages/mocktail" target="_blank">
-    <img src="https://raw.githubusercontent.com/dart-lang/mocktail/main/mocktail_logo.png" alt="Mocktail" width="80" height="40"/>
-  </a>
-</p>
