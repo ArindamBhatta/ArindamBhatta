@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on Mobile development **Flutter**
 - 📫 Reach me at **arindambhattacharyya.ab@gmail.com**
-- 📄 [View My Resume](https://docs.google.com/document/d/1S9mqBv3h5dKW1xRM34-K3KgkBZ_-CxFFYCbfqKKGzhs/edit?tab=t.fcvjkqcsdz57)
+- 📄 [View My Resume](https://drive.google.com/file/d/1hzgtYNZgahQmQFQTG-RdwR2xxd-iBdzZ/view)
 
 ---
 
 ### 🌍 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/arindambhattacharyya" target="_blank">
+  <a href="https://www.linkedin.com/in/-arindam-bhattacharyya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
