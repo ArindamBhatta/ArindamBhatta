@@ -66,13 +66,3 @@
     <img src="https://raw.githubusercontent.com/dart-lang/mocktail/main/mocktail_logo.png" alt="Mocktail" width="80" height="40"/>
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arindambhattacharyya&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arindambhattacharyya&theme=radical" alt="GitHub Streak" width="400"/>
-</p>
-
----
