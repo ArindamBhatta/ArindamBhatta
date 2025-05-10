@@ -1,26 +1,19 @@
 <h1 align="left">Hi 👋, I'm Arindam Bhattacharyya</h1>
 
 <p>
-  A passionate software developer and tech enthusiast with experience in Flutter, Flutter Bloc Library, Firebase, and Flutter Testing Library (Mocktail). Skilled in React with Ant Design and Tailwind CSS, as well as state management using Redux.
+  I'm a passionate software developer with hands-on experience in building modern, scalable applications. My expertise lies in Flutter (with Bloc and Firebase), frontend technologies like React, and styling libraries such as Tailwind CSS and Ant Design. I enjoy turning complex problems into elegant, user-friendly solutions.
 </p>
-
-<p align="left">
-  🔗 <a href="https://github.com/ArindamBhatta/ArindamBhatta/" target="_blank">My GitHub Profile</a>  
-  <br>
-  👁️ <img src="https://komarev.com/ghpvc/?username=ArindamBhatta&color=blue" alt="Profile views" />
-</p>
-
----
 
 ### 🚀 Expertise
 
 <p>
-  Passionate about crafting interactive user experiences, I specialise in frontend development, combining modern frameworks with best-practice design patterns. With almost 1 year dedicated to honing my skills in front-end technologies.
+  I specialise in crafting responsive, high-performance frontend experiences using modern frameworks and state management tools. Over the past year, I’ve focused on refining my skills in mobile and web development with a strong emphasis on performance, testing, and maintainability.
 </p>
 
-- 🔭 I’m currently working on Mobile development **Flutter**  
+- 🔭 Currently working on mobile app development using **Flutter**  
+- 🧪 Experienced with **Flutter Testing Library** and **Mocktail**  
 - 📫 Reach me at **arindambhattacharyya.ab@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/1hzgtYNZgahQmQFQTG-RdwR2xxd-iBdzZ/view)
+- 📄 [View My Resume]([https://drive.google.com/file/d/1hzgtYNZgahQmQFQTG-RdwR2xxd-iBdzZ/view](https://drive.google.com/file/d/17JFpjDaG8s3bxGQtITVJhbE0hf5WgoUU/view?usp=sharing))
 
 ---
 
