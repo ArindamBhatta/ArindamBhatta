@@ -1,24 +1,26 @@
-<h1 align="left">Hi 👋, I'm Arindam Bhattacharyya</h1>
+<h1 align="left">Hello 👋, I'm Arindam Bhattacharyya</h1>
 
-<p>
-  I'm a passionate software developer with hands-on experience in building modern, scalable applications. My expertise lies in Flutter (with Bloc and Firebase), frontend technologies like React, and styling libraries such as Tailwind CSS and Ant Design. I enjoy turning complex problems into elegant, user-friendly solutions.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ArindamBhatta&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 🚀 Expertise
-
 <p>
-  I specialise in crafting responsive, high-performance frontend experiences using modern frameworks and state management tools. Over the past year, I’ve focused on refining my skills in mobile and web development with a strong emphasis on performance, testing, and maintainability.
+  I'm a dedicated software developer with a passion for building intuitive and scalable applications. With expertise in front-end development, I specialize in creating seamless user experiences using modern frameworks and best practices. My technical proficiency includes Flutter, React, and state management tools like Redux and Flutter Bloc, complemented by a strong foundation in UI design with Tailwind CSS and Ant Design.
 </p>
 
-- 🔭 Currently working on mobile app development using **Flutter**  
-- 🧪 Experienced with **Flutter Testing Library** and **Mocktail**  
-- 📫 Reach me at **arindambhattacharyya.ab@gmail.com**  
-- 📄 [View My Resume]([https://drive.google.com/file/d/1hzgtYNZgahQmQFQTG-RdwR2xxd-iBdzZ/view](https://drive.google.com/file/d/17JFpjDaG8s3bxGQtITVJhbE0hf5WgoUU/view?usp=sharing))
+---
+
+### 🚀 About Me
+- 🔭 **Current Focus**: Developing high-quality mobile applications using **Flutter** and Firebase.  
+- 💼 **Experience**: Nearly 1 year of hands-on experience in front-end development, delivering responsive and user-centric solutions.  
+- 🌱 **Learning**: Continuously exploring advanced state management techniques and cloud-based architectures.  
+- 📫 **Contact**: Reach out at **arindambhattacharyya.ab@gmail.com**  
+- 📄 **Resume**: [View My Resume](https://drive.google.com/file/d/17JFpjDaG8s3bxGQtITVJhbE0hf5WgoUU/view?usp=sharing)  
+- 💬 **Fun Fact**: I love experimenting with new UI patterns to enhance user engagement!
 
 ---
 
 ### 🌍 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/-arindam-bhattacharyya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -27,30 +29,40 @@
 
 ---
 
-### 🛠 Tech Stack
-
+### 🛠 Technical Skills
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-
   <a href="https://flutter.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a>
-
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
-
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArindamBhatta&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArindamBhatta&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 💡 Why Work With Me?
+I bring a blend of technical expertise, creative problem-solving, and a commitment to delivering high-quality code. Whether it's building responsive mobile apps or crafting dynamic web interfaces, I'm driven by a passion for innovation and collaboration. Let's connect to build something extraordinary!
