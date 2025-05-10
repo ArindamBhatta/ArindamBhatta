@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  I'm a dedicated software developer with a passion for building intuitive and scalable applications. With expertise in front-end development, I specialize in creating seamless user experiences using modern frameworks and best practices. My technical proficiency includes Flutter, React, and state management tools like Redux and Flutter Bloc, complemented by a strong foundation in UI design with Tailwind CSS and Ant Design.
+  I'm a dedicated software developer with a passion for building intuitive and scalable applications. With expertise in front-end development, I specialise in creating seamless user experiences using modern frameworks and best practices. My technical proficiency includes Flutter, React, and state management tools like Redux and Flutter Bloc, complemented by a strong foundation in UI design with Tailwind CSS and Ant Design.
 </p>
 
 ---
@@ -42,9 +42,6 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
