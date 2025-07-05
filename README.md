@@ -15,7 +15,7 @@
 - 💼 **Experience**: Nearly 1 year of hands-on experience in front-end development, delivering responsive and user-centric solutions.  
 - 🌱 **Learning**: Continuously exploring advanced state management techniques and cloud-based architectures.  
 - 📫 **Contact**: Reach out at **arindambhattacharyya.ab@gmail.com**  
-- 📄 **Resume**: [View My Resume](https://drive.google.com/file/d/17JFpjDaG8s3bxGQtITVJhbE0hf5WgoUU/view?usp=sharing)  
+- 📄 **Resume**: [View My Resume](https://www.canva.com/design/DAGiJWi88cM/bSSveL90-nAV5Y7olgWL-g/edit)  
 - 💬 **Fun Fact**: I love experimenting with new UI patterns to enhance user engagement!
 
 ---
@@ -60,6 +60,3 @@
 </p>
 
 ---
-
-### 💡 Why Work With Me?
-I bring a blend of technical expertise, creative problem-solving, and a commitment to delivering high-quality code. Whether it's building responsive mobile apps or crafting dynamic web interfaces, I'm driven by a passion for innovation and collaboration. Let's connect to build something extraordinary!
