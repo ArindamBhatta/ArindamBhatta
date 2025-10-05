@@ -5,6 +5,9 @@
 <p>
     <a href="https://github.com/ArindamBhattacharyya"><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=500&size=35&duration=1&pause=1&color=FF0C48&repeat=false&random=false&width=435&lines=Arindam+Bhattacharyya" alt="Typing SVG" /></a>
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ArindamBhatta&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p>
     <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=400&size=30&pause=1000&color=FF0C48&random=false&width=435&lines=Backend+Developer;Flutter+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Skills" /></a>
@@ -75,9 +78,6 @@ I enjoy solving problems on **LeetCode** and exploring new tech stacks.
   </picture>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ArindamBhatta&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <h2 align="center"> 🔗 Connect with Me 🔗 </h2>
 <p align="center">
