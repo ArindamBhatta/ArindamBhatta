@@ -81,8 +81,8 @@ I enjoy solving problems on **LeetCode** and exploring new tech stacks.
 
 <h2 align="center"> 🔗 Connect with Me 🔗 </h2>
 <p align="center">
-<a href="https://linkedin.com/in/arindam-bhattacharyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/arindam-bhattacharyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/-arindam-bhattacharyya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/arindam-bhattacharyya](https://leetcode.com/u/ArindamBhatta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 <p align="center">
