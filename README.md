@@ -25,7 +25,7 @@ I enjoy solving problems on **LeetCode** and exploring new tech stacks.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ## Frontend Development:
 
@@ -54,9 +54,6 @@ I enjoy solving problems on **LeetCode** and exploring new tech stacks.
 ![supabase](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
 
-## AI & ML:
-
-![Numpy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
