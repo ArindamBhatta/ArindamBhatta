@@ -7,11 +7,6 @@
     <a href="https://github.com/ArindamBhattacharyya"><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=500&size=35&duration=1&pause=1&color=FF0C48&repeat=false&random=false&width=435&lines=Arindam+Bhattacharyya" alt="Typing SVG" /></a>
 </p>
 
-<!-- dynamic text -->
-<p>
-    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=400&size=30&pause=1000&color=FF0C48&random=false&width=435&lines= Frontend(Flutter,+ React); Backend(Express,+ Nest); Database(Postgresql,+ MongoDB)" alt="Skills" /></a>
-</p>
-
 ## Programming Languages:
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
