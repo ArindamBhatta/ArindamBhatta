@@ -6,7 +6,7 @@
 <!-- Name & Bio -->
 <h1 align="center">Arindam Bhattacharyya</h1>
 <p align="center">
-  <a href="https://github.com/ArindamBhattacharyya">
+  <a href="https://github.com/ArindamBhatta">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Full-Stack+(TypeScript);1.5%2B+Year+Production+Experience;" alt="Typing SVG"/>
   </a>
 </p>
@@ -45,13 +45,6 @@ Building scalable cross-platform mobile apps with Flutter, Bloc, Firebase, clean
   <a href="https://www.linkedin.com/in/arindam-bhattacharyya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/ArindamBhatta/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="mailto:arindambhattacharyya.ab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<!-- Simple Stats (Optional – one card only) -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=ArindamBhatta&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArindamBhatta&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- Footer -->
