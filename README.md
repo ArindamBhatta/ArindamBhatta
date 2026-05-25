@@ -1,7 +1,7 @@
 <!-- Simple & Clean Header -->
 <h1 align="center">Arindam Bhattacharyya</h1>
 <p align="center">
-  <strong>Flutter Developer | Clean Architecture Specialist | 2+ Years Production Experience</strong>
+  <strong>Flutter Developer | Full Stack Developer | 2+ Years Production Experience</strong>
 </p>
 
 <p align="center">
