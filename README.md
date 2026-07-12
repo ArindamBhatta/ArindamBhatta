@@ -12,13 +12,6 @@
 <h2 align="center">🚀 Live Projects</h2>
 
 
-**1. Job Application Tracker** (Full-Stack NestJS + NextJS)  
-- Backend: NestJS + TypeORM + JWT + PostgreSQL  
-- Frontend: Nest connected to live backend
-- Used for tracking 100+ job applications   
-- **Live Backend**: [Coming in 10 days]  
-- Repo: [github.com/ArindamBhatta/job-tracker](https://github.com/ArindamBhatta/job-tracker)
-
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Core Tech Stack</h2>
 <p align="center">
