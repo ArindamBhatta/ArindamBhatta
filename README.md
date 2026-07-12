@@ -1,33 +1,56 @@
 <!-- Simple & Clean Header -->
 <h1 align="center">Arindam Bhattacharyya</h1>
 <p align="center">
-  <strong>Flutter Developer | Full Stack Developer | 2+ Years Production Experience</strong>
+  <strong>Flutter Developer | Frontend Engineer | 2+ Years Production Experience</strong>
 </p>
 
 <p align="center">
-  Building scalable mobile apps with Flutter, clean architecture, Firebase, and NestJS.
+  Building high-performance mobile apps using Flutter, BLoC, Clean Architecture, and Firebase.
 </p>
 
-<!-- Featured Projects -->
-<h2 align="center">🚀 Live Projects</h2>
+<p align="center">
+  Crafting resilient web applications with Next.js, TanStack Query, and scalable API layers.
+</p>
 
+<!-- Featured Open Source Project -->
+<hr />
+<h2 align="center">🚀 Featured Open Source Project</h2>
+
+<p align="center">
+  <strong><a href="https://pub.dev/packages/flutter_test_gen_ai">flutter_test_gen_ai</a></strong><br />
+  <em>An intelligent, coverage-driven test generation CLI tool powered by Google Gemini.</em>
+</p>
+
+<p align="center">
+  <a href="https://pub.dev/packages/flutter_test_gen_ai"><img src="https://img.shields.io/pub/v/flutter_test_gen_ai.svg?style=flat-square&color=blue" alt="Pub Version" /></a>
+  <a href="https://pub.dev/packages/flutter_test_gen_ai/score"><img src="https://img.shields.io/pub/points/flutter_test_gen_ai.svg?style=flat-square" alt="Pub Points" /></a>
+</p>
+
+<ul>
+  <li><strong>Static Analysis Context:</strong> Parses implementation files down to a specific depth to build accurate type dependency maps for the LLM prompt.</li>
+  <li><strong>Smart Widget Parsing:</strong> Extracts <code>Semantics</code> labels and <code>Key</code> tags straight from Flutter build methods to avoid UI selector hallucinations.</li>
+  <li><strong>Self-Healing Engine:</strong> Runs tests locally and passes compilation errors back to the AI for automated code correction.</li>
+</ul>
+
+<p align="center">
+  <code>dart run flutter_test_gen_ai --effective-tests-only</code>
+</p>
+<hr />
 
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Core Tech Stack</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-00BFA5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
 </p>
 
 <!-- Experience Summary -->
 <h2 align="center">💼 Experience</h2>
 <ul>
-  <li><strong>ZekiHR</strong> (Remote) — File upload APIs + NestJS integration with LLM system (Oct 2025 – Present)</li>
-  <li><strong>Bengal Software (BSD)</strong> — Vet client app with clean Cubit-Repository-Service architecture (Jun 2024 – Oct 2025)</li>
-  <li><strong>Full Speed Technology</strong> — Flutter app with Riverpod + GoRouter (Nov 2023 – Jun 2024)</li>
+  <li><strong>ZekiHR</strong> — Frontend Stack & Core APIs. Leading fast-paced iterations, NestJS + LLM system integrations, and high-velocity UI enhancements. (Oct 2025 – Present)</li>
+  <li><strong>Bengal Software (BSD)</strong> — Flutter Engineer. Architected a multi-role B2B veterinary app using inherited multi-model structures, dynamic StreamControllers, and automated Cloud Scheduler pipelines. (Jun 2024 – Oct 2025)</li>
 </ul>
 
 <!-- Connect -->
