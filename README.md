@@ -46,12 +46,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-<!-- Experience Summary -->
-<h2 align="center">💼 Experience</h2>
-<ul>
-  <li><strong>ZekiHR</strong> — Frontend Stack & Core APIs. Leading fast-paced iterations, NestJS + LLM system integrations, and high-velocity UI enhancements. (Oct 2025 – Present)</li>
-  <li><strong>Bengal Software (BSD)</strong> — Flutter Engineer. Architected a multi-role B2B veterinary app using inherited multi-model structures, dynamic StreamControllers, and automated Cloud Scheduler pipelines. (Jun 2024 – Oct 2025)</li>
-</ul>
 
 <!-- Connect -->
 <h2 align="center">🔗 Let's Connect</h2>
