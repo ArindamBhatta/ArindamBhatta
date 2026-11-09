@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Arindam Bhattacharyya — Flutter Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#0E1A33"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#54C5F8"/>
+      <stop offset="0.5" stop-color="#7C9CFF"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#13B9FD" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#13B9FD" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#A855F7" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.04"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="340" rx="20"/></clipPath>
+    <style>
+      .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+      .g1 { animation: drift1 14s ease-in-out infinite alternate; }
+      .g2 { animation: drift2 18s ease-in-out infinite alternate; }
+      @keyframes drift1 { from { transform: translate(0,0); } to { transform: translate(80px,30px); } }
+      @keyframes drift2 { from { transform: translate(0,0); } to { transform: translate(-90px,-25px); } }
+
+      .fade { opacity: 0; animation: fadeUp .9s ease-out forwards; }
+      .d1 { animation-delay: .1s; } .d2 { animation-delay: .35s; } .d3 { animation-delay: .6s; }
+      @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+
+      /* rotating role line: 4 roles, 12s cycle */
+      .role { opacity: 0; animation: role 12s infinite; }
+      .r2 { animation-delay: 3s; } .r3 { animation-delay: 6s; } .r4 { animation-delay: 9s; }
+      @keyframes role {
+        0% { opacity: 0; transform: translateY(10px); }
+        4%, 22% { opacity: 1; transform: translateY(0); }
+        26%, 100% { opacity: 0; transform: translateY(-10px); }
+      }
+      .caret { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+
+      /* code lines reveal */
+      .ln { opacity: 0; animation: ln .4s ease-out forwards; }
+      @keyframes ln { to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <circle class="g1" cx="180" cy="60" r="260" fill="url(#glow1)"/>
+    <circle class="g2" cx="1050" cy="300" r="280" fill="url(#glow2)"/>
+
+    <!-- Left: intro -->
+    <g class="sans">
+      <text class="fade d1" x="64" y="104" fill="#8B9BB4" font-size="20" letter-spacing="3">HI, I'M</text>
+      <text class="fade d2" x="62" y="164" fill="url(#name)" font-size="52" font-weight="800">Arindam Bhattacharyya</text>
+      <g class="fade d3">
+        <text x="64" y="214" fill="#54C5F8" font-size="22" class="mono">&gt;</text>
+        <g class="mono" font-size="22" fill="#E6EDF3">
+          <text class="role" x="90" y="214">Full-Stack Flutter Developer</text>
+          <text class="role r2" x="90" y="214">2.5+ yrs shipping to production</text>
+          <text class="role r3" x="90" y="214">Offline-first · Realtime · Clean Arch</text>
+          <text class="role r4" x="90" y="214">Flutter in front, Laravel behind</text>
+        </g>
+      </g>
+      <g class="fade d3" font-size="15" fill="#8B9BB4">
+        <rect x="64" y="252" width="118" height="32" rx="16" fill="#13B9FD" fill-opacity="0.12" stroke="#13B9FD" stroke-opacity="0.4"/>
+        <text x="123" y="273" text-anchor="middle" fill="#54C5F8">📱 Flutter</text>
+        <rect x="194" y="252" width="128" height="32" rx="16" fill="#FFCA28" fill-opacity="0.12" stroke="#FFCA28" stroke-opacity="0.4"/>
+        <text x="258" y="273" text-anchor="middle" fill="#FFD95A">🔥 Firebase</text>
+        <rect x="334" y="252" width="118" height="32" rx="16" fill="#FF2D20" fill-opacity="0.12" stroke="#FF2D20" stroke-opacity="0.4"/>
+        <text x="393" y="273" text-anchor="middle" fill="#FF7A70">🛠️ Laravel</text>
+      </g>
+    </g>
+
+    <!-- Right: code window -->
+    <g transform="translate(730,56)">
+      <rect width="410" height="228" rx="12" fill="#0D1117" fill-opacity="0.85" stroke="#30363D"/>
+      <circle cx="22" cy="20" r="6" fill="#FF5F57"/>
+      <circle cx="42" cy="20" r="6" fill="#FEBC2E"/>
+      <circle cx="62" cy="20" r="6" fill="#28C840"/>
+      <text x="205" y="25" text-anchor="middle" class="mono" font-size="12" fill="#6E7681">arindam.dart</text>
+      <line x1="0" y1="40" x2="410" y2="40" stroke="#30363D"/>
+      <g class="mono" font-size="14">
+        <text class="ln" style="animation-delay:.6s" x="20" y="70"><tspan fill="#FF7B72">class</tspan><tspan fill="#FFA657"> Arindam </tspan><tspan fill="#FF7B72">extends</tspan><tspan fill="#FFA657"> Engineer</tspan><tspan fill="#E6EDF3"> {</tspan></text>
+        <text class="ln" style="animation-delay:.9s" x="40" y="96"><tspan fill="#79C0FF">final</tspan><tspan fill="#E6EDF3"> app     = </tspan><tspan fill="#A5D6FF">'Flutter · Bloc'</tspan><tspan fill="#E6EDF3">;</tspan></text>
+        <text class="ln" style="animation-delay:1.2s" x="40" y="122"><tspan fill="#79C0FF">final</tspan><tspan fill="#E6EDF3"> backend = </tspan><tspan fill="#A5D6FF">'Laravel · Reverb'</tspan><tspan fill="#E6EDF3">;</tspan></text>
+        <text class="ln" style="animation-delay:1.5s" x="40" y="148"><tspan fill="#79C0FF">final</tspan><tspan fill="#E6EDF3"> users   = </tspan><tspan fill="#79C0FF">17200</tspan><tspan fill="#E6EDF3"> + </tspan><tspan fill="#FFA657">you</tspan><tspan fill="#E6EDF3">;</tspan></text>
+        <text class="ln" style="animation-delay:1.8s" x="40" y="180"><tspan fill="#D2A8FF">ship</tspan><tspan fill="#E6EDF3">() =&gt; </tspan><tspan fill="#A5D6FF">'🚀 to production'</tspan><tspan fill="#E6EDF3">;</tspan></text>
+        <text class="ln" style="animation-delay:2.1s" x="20" y="206" fill="#E6EDF3">}<tspan class="caret" fill="#54C5F8">▍</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

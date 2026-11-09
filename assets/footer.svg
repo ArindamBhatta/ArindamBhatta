@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Footer wave">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#13B9FD"/>
+      <stop offset="0.5" stop-color="#7C9CFF"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <style>
+      .a { animation: slide 10s linear infinite; }
+      .b { animation: slide 16s linear infinite reverse; }
+      @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+    </style>
+  </defs>
+  <g class="b" opacity="0.35">
+    <path fill="url(#w)" d="M0 70 C200 30 400 110 600 70 C800 30 1000 110 1200 70 C1400 30 1600 110 1800 70 C2000 30 2200 110 2400 70 V120 H0Z"/>
+  </g>
+  <g class="a" opacity="0.8">
+    <path fill="url(#w)" d="M0 85 C150 55 450 115 600 85 C750 55 1050 115 1200 85 C1350 55 1650 115 1800 85 C1950 55 2250 115 2400 85 V120 H0Z"/>
+  </g>
+</svg>
